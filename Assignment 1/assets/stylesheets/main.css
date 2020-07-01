@@ -132,18 +132,17 @@ main {
 .article {
     line-height: 1.5;
     color: #252C22;
+    font-weight: 500;
 }
-.article h2, h3 {
+.article dt {
     font-family: 'Roboto Mono', monospace;
     font-size: 22px;
     word-spacing: 5px;
     position: relative;
     right: 35px;
-    font-weight: 500;
 }
-.article p {
+.article dd {
     font-size: 14px;
-    font-weight: 500;
     color: #6B6650;
     margin: 8px 0;
 }
