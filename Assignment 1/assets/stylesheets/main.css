@@ -93,7 +93,7 @@ main {
     justify-content: space-between;
 }
 .col {
-    flex-basis: 29.3%;
+    flex-basis: 31.4%;
     background: #005979;
     padding: 15px 0 15px 45px;
     list-style: decimal;
